@@ -8,7 +8,7 @@ This is a web based application developed for skin beauty
 
 **Project Link** - https://gentle-ocean-0591c7d00.3.azurestaticapps.net/
 
-**Project Demo link**-https://www.youtube.com/watch?v=4jPn0v8PblM&t=0s
+**Project Demo link**-https://www.youtube.com/watch?v=yr6vX9BEeI4
 
 ## Features and Functionalities 
 
